@@ -21,4 +21,4 @@
 
 **В проекте использована библиотка xlwt.**
 
-[Ссылка на документацию](https://pypi.org/project/xlwt/){:target="_blank"}
+[Ссылка на документацию](https://pypi.org/project/xlwt/)
