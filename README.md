@@ -24,3 +24,5 @@
 **В проекте использована библиотка [xlwt](https://pypi.org/project/xlwt/).**
 
 [Ссылка на документацию](https://webmonstr.com/ru/lesson/django-api-from-db.html)
+
+![demo](demo.png) 
