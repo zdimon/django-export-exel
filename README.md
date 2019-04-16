@@ -17,3 +17,8 @@
     pip install -r requirements.txt
     ./manage.py migrate
     ./manage.py export_data
+    
+
+**В проекте использована библиотка xlwt.**
+
+[Ссылка на документацию](https://pypi.org/project/xlwt/){:target="_blank"}
